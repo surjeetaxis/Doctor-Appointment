@@ -1,0 +1,107 @@
+com/javatodev/api/repository/MedicineRepository.java
+ com.javatodev.api.repository.MedicineRepository
+com/javatodev/api/controller/MedicineController.java
+ com.javatodev.api.controller.MedicineController
+com/javatodev/api/model/request/Review.java
+ com.javatodev.api.model.request.Review
+com/javatodev/api/exception/EntityNotFoundException.java
+ com.javatodev.api.exception.EntityNotFoundException
+com/javatodev/api/model/request/Auth.java
+ com.javatodev.api.model.request.Auth
+ com.javatodev.api.model.request.Auth$UserRole
+com/javatodev/api/controller/ReviewController.java
+ com.javatodev.api.controller.ReviewController
+com/javatodev/api/controller/DoctorTimeSlotController.java
+ com.javatodev.api.controller.DoctorTimeSlotController
+com/javatodev/api/model/request/Favourite.java
+ com.javatodev.api.model.request.Favourite
+com/javatodev/api/repository/FavouriteRepository.java
+ com.javatodev.api.repository.FavouriteRepository
+com/javatodev/api/model/request/DoctorTimeSlot.java
+ com.javatodev.api.model.request.DoctorTimeSlot
+com/javatodev/api/repository/DoctorRepository.java
+ com.javatodev.api.repository.DoctorRepository
+com/javatodev/api/repository/ReviewRepository.java
+ com.javatodev.api.repository.ReviewRepository
+com/javatodev/api/repository/PatientRepository.java
+ com.javatodev.api.repository.PatientRepository
+com/javatodev/api/model/request/Blog.java
+ com.javatodev.api.model.request.Blog
+com/javatodev/api/controller/PrescriptionController.java
+ com.javatodev.api.controller.PrescriptionController
+com/javatodev/api/util/JwtGenerator.java
+ com.javatodev.api.util.JwtGenerator
+com/javatodev/api/service/DoctorTimeSlotService.java
+ com.javatodev.api.service.DoctorTimeSlotService
+com/javatodev/api/service/FavouriteService.java
+ com.javatodev.api.service.FavouriteService
+com/javatodev/api/service/DoctorService.java
+ com.javatodev.api.service.DoctorService
+com/javatodev/api/service/PrescriptionService.java
+ com.javatodev.api.service.PrescriptionService
+com/javatodev/api/service/AppointmentService.java
+ com.javatodev.api.service.AppointmentService
+com/javatodev/api/model/Author.java
+ com.javatodev.api.model.Author
+com/javatodev/api/repository/AppointmentRepository.java
+ com.javatodev.api.repository.AppointmentRepository
+com/javatodev/api/service/AuthService.java
+ com.javatodev.api.service.AuthService
+com/javatodev/api/repository/ContactMessageRepository.java
+ com.javatodev.api.repository.ContactMessageRepository
+com/javatodev/api/repository/DoctorTimeSlotRepository.java
+ com.javatodev.api.repository.DoctorTimeSlotRepository
+com/javatodev/api/model/request/Prescription.java
+ com.javatodev.api.model.request.Prescription
+com/javatodev/api/service/BlogService.java
+ com.javatodev.api.service.BlogService
+com/javatodev/api/controller/PatientController.java
+ com.javatodev.api.controller.PatientController
+com/javatodev/api/model/request/Author.java
+ com.javatodev.api.model.request.Author
+com/javatodev/api/service/ReviewService.java
+ com.javatodev.api.service.ReviewService
+com/javatodev/api/controller/ContactController.java
+ com.javatodev.api.controller.ContactController
+com/javatodev/api/service/LibraryService.java
+ com.javatodev.api.service.LibraryService
+com/javatodev/api/repository/PrescriptionRepository.java
+ com.javatodev.api.repository.PrescriptionRepository
+com/javatodev/api/controller/BlogController.java
+ com.javatodev.api.controller.BlogController
+com/javatodev/api/repository/AuthorRepository.java
+ com.javatodev.api.repository.AuthorRepository
+com/javatodev/api/SpringBootMongoDbApplication.java
+ com.javatodev.api.SpringBootMongoDbApplication
+com/javatodev/api/model/request/Doctor.java
+ com.javatodev.api.model.request.Doctor
+com/javatodev/api/repository/AuthRepository.java
+ com.javatodev.api.repository.AuthRepository
+com/javatodev/api/service/PatientService.java
+ com.javatodev.api.service.PatientService
+com/javatodev/api/controller/FavouriteController.java
+ com.javatodev.api.controller.FavouriteController
+com/javatodev/api/model/request/Patient.java
+ com.javatodev.api.model.request.Patient
+com/javatodev/api/repository/BlogRepository.java
+ com.javatodev.api.repository.BlogRepository
+com/javatodev/api/controller/LibraryController.java
+ com.javatodev.api.controller.LibraryController
+com/javatodev/api/service/ContactMessageService.java
+ com.javatodev.api.service.ContactMessageService
+com/javatodev/api/model/request/ContactMessage.java
+ com.javatodev.api.model.request.ContactMessage
+com/javatodev/api/model/request/Appointment.java
+ com.javatodev.api.model.request.Appointment
+com/javatodev/api/model/response/Response.java
+ com.javatodev.api.model.response.Response
+com/javatodev/api/controller/DoctorController.java
+ com.javatodev.api.controller.DoctorController
+com/javatodev/api/model/request/Medicine.java
+ com.javatodev.api.model.request.Medicine
+com/javatodev/api/service/MedicineService.java
+ com.javatodev.api.service.MedicineService
+com/javatodev/api/controller/AppointmentController.java
+ com.javatodev.api.controller.AppointmentController
+com/javatodev/api/controller/AuthController.java
+ com.javatodev.api.controller.AuthController

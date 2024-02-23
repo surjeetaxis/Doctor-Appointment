@@ -1,0 +1,2 @@
+com/javatodev/api/SpringBootMongoDbApplicationTests.java
+ com.javatodev.api.SpringBootMongoDbApplicationTests
